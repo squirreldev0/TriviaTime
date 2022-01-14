@@ -24,7 +24,7 @@ import android.widget.Toast
                 startActivity(intent)
                 finish()
 
-                //test
+                //testccc
             }
         }
     }
