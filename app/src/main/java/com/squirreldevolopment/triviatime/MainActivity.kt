@@ -23,6 +23,8 @@ import android.widget.Toast
                 val intent = Intent(this, QuizQuestionsActivity::class.java)
                 startActivity(intent)
                 finish()
+
+                //test
             }
         }
     }
